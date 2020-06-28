@@ -1,2 +1,2 @@
 # OpenCV-FaceDetection
-Smart Methods - Summer Internship (AI path)
+Python code to detect faces in images with Google Colab
